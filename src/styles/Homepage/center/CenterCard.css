@@ -1,0 +1,139 @@
+.center-Card-image {
+  width: 506.98px;
+  height: 546.27px;
+  top: 369px;
+  margin-left: 206.69px;
+  border-radius: 46px;
+}
+.left-card {
+  width: 247.82px;
+  height: 209px;
+  position: absolute;
+  margin-left: 62px;
+  top: 303px;
+  padding: 30px 0px 0px 0px;
+  gap: 10px;
+  background: white;
+  border-radius: 27.11px;
+}
+
+.vector1 {
+  width: 2.61px;
+  height: 6.93px;
+  position: absolute;
+  top: 72.62px;
+  left: 24.41px;
+  background: #000;
+  transform: rotate(90.27deg);
+}
+.vector2 {
+  width: 2.55px;
+  height: 24.32px;
+  position: absolute;
+  background-color: #000;
+  top: 44.3px;
+  left: 26.27px;
+  transform: rotate(120.27deg);
+}
+
+.vector3 {
+  width: 2.6px;
+  height: 22.17px;
+  position: absolute;
+  margin-left: -2.6px;
+  top: 32.88px;
+  left: 48.19px;
+  background-color: #000;
+  transform: rotate(150.27deg);
+}
+
+.vector4 {
+  width: 2.44px;
+  height: 15.56px;
+  position: absolute;
+  top: 39.21px;
+  margin-left: 2%;
+  left: 63.69px;
+  background-color: #000;
+  transform: rotate(30.27deg);
+}
+
+.percentage-text {
+  font-family: Switzer;
+  font-size: 54px;
+  font-weight: 500;
+  line-height: 76.8px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  width: 121px;
+  height: 77px;
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 10px;
+}
+
+.left-card-text {
+  width: 207.82px;
+  height: 92px;
+  font-family: Manrope;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 23.4px;
+  text-align: left;
+  margin-top: 80px;
+  color: #828282;
+}
+.bottom-offer-entire-text {
+  margin-left: 40px;
+  right: 1;
+  top: 0;
+  position: absolute;
+}
+.bottom-offer {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  width: 155px;
+  height: 48px;
+  top: 581.71px;
+  margin-left: 178.19px;
+  padding: 16px 32px 16px 16px;
+  border-radius: 81.54px;
+  background-color: #ffffff;
+}
+
+.bottom-offer-heading {
+  font-family: Manrope;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 22.78px;
+  text-align: left;
+}
+
+.bottom-offer-text {
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 10.8px;
+  text-align: left;
+  color: #828282;
+}
+
+.right-card {
+  width: 240.49px;
+  position: absolute;
+  height: 109px;
+  top: 626px;
+  margin-left: 499px;
+  padding: 34px 30px 40px 36px;
+  border-radius: 28.36px;
+  color: white;
+  border: 1.18px solid;
+  border-image-source: linear-gradient(
+    159.14deg,
+    #3d3d3d 6.08%,
+    rgba(61, 61, 61, 0) 85.58%
+  );
+  box-shadow: 0px 23.63px 37.81px 0px #1e1e1e17;
+  background-color: #002e18;
+}

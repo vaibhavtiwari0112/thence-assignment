@@ -1,0 +1,108 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  margin-left: 20%;
+}
+
+.heading-1 {
+  font-family: "Covered By Your Grace", cursive;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 39.6px;
+  letter-spacing: -0.02em;
+  color: #2da950;
+  width: 431px;
+  height: 28px;
+  text-align: center;
+  justify-content: center;
+}
+
+.heading-2 {
+  margin-top: 10px;
+  font-family: Manrope;
+  font-size: 56px;
+  font-weight: 500;
+  line-height: 47.2px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  width: 488px;
+  height: 134px;
+  color: #1c1c1c;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.input-field {
+  width: 367px;
+  height: 25px;
+  padding: 24px 36px 24px 36px;
+  gap: 10px;
+  border-radius: 64px;
+  margin-bottom: 20px;
+  border: 1px;
+  border: 1px solid #00000005;
+  background: #efefef;
+  color: #827a7a;
+  font-family: Manrope;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 27.32px;
+  text-align: left;
+}
+
+.submit-button {
+  width: 417px;
+  height: 77.22px;
+  padding: 26.11px 49.61px 26.11px 41.78px;
+  gap: 15.67px;
+  border-radius: 107.06px;
+  background: linear-gradient(97.55deg, #1c1c1c 2.63%, #454444 105.2%);
+  cursor: pointer;
+  color: white;
+  margin-top: 20px;
+}
+
+.submit-button:disabled {
+  background: linear-gradient(0deg, #c9c9c9, #c9c9c9);
+  cursor: not-allowed;
+}
+
+.error-message {
+  color: #ff0808;
+  height: 22px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21.86px;
+  text-align: left;
+}
+.tick-sign {
+  width: 80px;
+  height: 80px;
+  margin-left: 40%;
+  justify-content: center;
+  align-items: center;
+}
+
+.p-text {
+  font-family: Manrope;
+  font-size: 27px;
+  font-weight: 500;
+  line-height: 35.1px;
+  text-align: left;
+  top: 250px;
+  position: absolute;
+  width: 718px;
+  height: 105px;
+  color: #727272;
+}
+.bottom-text {
+  position: relative;
+  font-family: "Monorope", sans-serif;
+  margin-top: 40%;
+  text-align: center;
+  justify-content: center;
+}

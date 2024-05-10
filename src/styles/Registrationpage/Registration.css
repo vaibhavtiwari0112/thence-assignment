@@ -1,0 +1,30 @@
+.cross-button {
+  background: transparent;
+  cursor: pointer;
+  color: gray;
+  width: 64px;
+  height: 64px;
+  margin-top: 31.89px;
+  left: 1324px;
+  position: absolute;
+  padding: 16px;
+  border-radius: 40px;
+  border: 1px solid #cacaca;
+}
+.logo {
+  width: 127.94px;
+  height: 47.39px;
+  margin-top: 31.89px;
+  left: 52.22px;
+  padding: 7.86px 0.17px 9.03px 6.78px;
+}
+.form-container {
+  width: 588px;
+  height: 538.22px;
+  top: 141px;
+  left: 426px;
+  gap: 62px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,35 @@
+.center-container {
+  margin-top: 50px;
+  position: relative;
+}
+.center-text {
+  margin-left: 426px;
+}
+
+.italic-text {
+  margin-top: 10px;
+  margin-left: 120px;
+  font-family: "Covered By Your Grace", cursive;
+  font-size: 26px;
+  font-weight: 200;
+  line-height: 39.6px;
+  letter-spacing: -0.02em;
+  color: #2da950;
+  text-align: left;
+  width: 297px;
+  height: 10px;
+}
+
+.plain-text {
+  justify-content: center;
+  margin-top: 10px;
+  font-family: Manrope;
+  font-size: 46px;
+  font-weight: 600;
+  line-height: 57.2px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  width: 488px;
+  height: 134px;
+  color: #1c1c1c;
+}
